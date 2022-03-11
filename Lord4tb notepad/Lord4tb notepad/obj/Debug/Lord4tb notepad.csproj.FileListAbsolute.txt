@@ -1,0 +1,9 @@
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\Lord4tb notepad.csproj.AssemblyReference.cache
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\LordTextBox.Form1.resources
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\Lord4tbNotepad.Properties.Resources.resources
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\Lord4tb notepad.csproj.GenerateResource.cache
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\Lord4tb notepad.csproj.CoreCompileInputs.cache
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\bin\Debug\Lord4tb Notepad.exe
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\bin\Debug\Lord4tb Notepad.pdb
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\Lord4tb Notepad.exe
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\Lord4tb Notepad.pdb

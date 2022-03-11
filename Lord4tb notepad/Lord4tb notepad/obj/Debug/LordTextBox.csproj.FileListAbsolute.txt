@@ -1,0 +1,9 @@
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\bin\Debug\LordTextBox.exe
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\bin\Debug\LordTextBox.pdb
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\LordTextBox.csproj.AssemblyReference.cache
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\LordTextBox.Form1.resources
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\LordTextBox.Properties.Resources.resources
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\LordTextBox.csproj.GenerateResource.cache
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\LordTextBox.csproj.CoreCompileInputs.cache
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\LordTextBox.exe
+C:\Users\qusai\Desktop\Text editor\LordTextBox\LordTextBox\obj\Debug\LordTextBox.pdb
